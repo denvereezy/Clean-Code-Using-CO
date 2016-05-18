@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/denvereezy/Clean-Code-Using-CO#readme",
   "dependencies": {
-    "bluebird": "~3.2.2",
+    "bluebird": "^3.2.2",
     "body-parser": "~1.14.2",
     "co": "~4.0.0",
     "connection-provider": "git://github.com/avermeulen/connection-provider",
