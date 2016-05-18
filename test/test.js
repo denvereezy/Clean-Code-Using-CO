@@ -27,7 +27,7 @@ describe('testing co module', function(){
           };
       });
     };
-    assert(results);
+    assert(users);
     done();
   });
 });
