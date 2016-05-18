@@ -1,0 +1,29 @@
+{
+  "name": "clean-code-using-co",
+  "version": "1.0.0",
+  "description": "using co module to make code more readable",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denvereezy/Clean-Code-Using-CO.git"
+  },
+  "author": "denver daniels",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denvereezy/Clean-Code-Using-CO/issues"
+  },
+  "homepage": "https://github.com/denvereezy/Clean-Code-Using-CO#readme",
+
+  "dependencies": {
+    "bluebird": "~3.2.2",
+    "body-parser": "~1.14.2",
+    "connection-provider": "git://github.com/avermeulen/connection-provider",
+    "express": "~4.13.4",
+    "express-handlebars": "~3.0.0",
+    "mysql": "~2.10.2",
+    "co": "~4.0.0"
+  }
+}
