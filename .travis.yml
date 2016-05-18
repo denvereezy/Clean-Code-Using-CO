@@ -1,11 +1,9 @@
 
 .travis.yml:
-  
+
 language: node_js
 node_js:
   - "5"
-  - "5.1"
-  - "4"
   - "4.2"
 before_script:
   - npm install -g mocha
