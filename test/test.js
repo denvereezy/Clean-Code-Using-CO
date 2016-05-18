@@ -20,6 +20,7 @@ describe('testing co module', function(){
       co(function* (){
           try{
               var users = yield userService.findAllUsers();
+              console.log(users);
               return users;
           }
           catch(err){
