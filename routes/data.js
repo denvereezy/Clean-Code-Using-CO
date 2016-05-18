@@ -1,3 +1,4 @@
+const co = require('co');
 exports.showData = function(req, res, next) {
 co(function* (){
     try{
